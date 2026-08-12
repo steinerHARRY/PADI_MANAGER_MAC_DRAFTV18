@@ -1,0 +1,13 @@
+{
+    "instructors": [
+        {
+            "name": "INSTRUCTOR ABC",
+            "email": "email@email.com",
+            "phone": "123 45678",
+            "padi_number": "000000",
+            "store_number": "111111111",
+            "initials": "TES",
+            "signature": "C:\\Python\\PADI_MANAGER\\signatures\\000000.png"
+        }
+    ]
+}
