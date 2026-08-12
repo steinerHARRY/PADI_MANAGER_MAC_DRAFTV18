@@ -1,0 +1,3271 @@
+{
+    "fields": [
+        {
+            "name": "Student Name",
+            "type": "text",
+            "page": 0,
+            "x1": 204,
+            "y1": 177,
+            "x2": 625,
+            "y2": 206
+        },
+        {
+            "name": "Birth Date",
+            "type": "text",
+            "page": 0,
+            "x1": 160,
+            "y1": 223,
+            "x2": 222,
+            "y2": 252
+        },
+        {
+            "name": "undefined",
+            "type": "text",
+            "page": 0,
+            "x1": 242,
+            "y1": 223,
+            "x2": 304,
+            "y2": 252
+        },
+        {
+            "name": "undefined_2",
+            "type": "text",
+            "page": 0,
+            "x1": 324,
+            "y1": 223,
+            "x2": 386,
+            "y2": 252
+        },
+        {
+            "name": "Mailing address 1",
+            "type": "text",
+            "page": 0,
+            "x1": 215,
+            "y1": 284,
+            "x2": 625,
+            "y2": 314
+        },
+        {
+            "name": "Mailing address 2",
+            "type": "text",
+            "page": 0,
+            "x1": 75,
+            "y1": 340,
+            "x2": 315,
+            "y2": 369
+        },
+        {
+            "name": "Mailing address 3",
+            "type": "text",
+            "page": 0,
+            "x1": 325,
+            "y1": 340,
+            "x2": 427,
+            "y2": 369
+        },
+        {
+            "name": "Mailing address 4",
+            "type": "text",
+            "page": 0,
+            "x1": 436,
+            "y1": 340,
+            "x2": 502,
+            "y2": 369
+        },
+        {
+            "name": "Mailing address 5",
+            "type": "text",
+            "page": 0,
+            "x1": 512,
+            "y1": 340,
+            "x2": 625,
+            "y2": 369
+        },
+        {
+            "name": "undefined_3",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 419,
+            "x2": 337,
+            "y2": 448
+        },
+        {
+            "name": "undefined_4",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 419,
+            "x2": 625,
+            "y2": 448
+        },
+        {
+            "name": "undefined_5",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 459,
+            "x2": 337,
+            "y2": 489
+        },
+        {
+            "name": "undefined_6",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 459,
+            "x2": 625,
+            "y2": 489
+        },
+        {
+            "name": "undefined_7",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 500,
+            "x2": 337,
+            "y2": 529
+        },
+        {
+            "name": "undefined_8",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 500,
+            "x2": 625,
+            "y2": 529
+        },
+        {
+            "name": "Email",
+            "type": "text",
+            "page": 0,
+            "x1": 125,
+            "y1": 540,
+            "x2": 625,
+            "y2": 569
+        },
+        {
+            "name": "init_padi_instructor_1",
+            "type": "text",
+            "page": 0,
+            "x1": 204,
+            "y1": 691,
+            "x2": 625,
+            "y2": 720
+        },
+        {
+            "name": "Init_Instructor_Signature_1",
+            "type": "signature",
+            "page": 0,
+            "x1": 165,
+            "y1": 731,
+            "x2": 625,
+            "y2": 760
+        },
+        {
+            "name": "Init_PADI_no_1",
+            "type": "text",
+            "page": 0,
+            "x1": 155,
+            "y1": 772,
+            "x2": 275,
+            "y2": 801
+        },
+        {
+            "name": "Init_Dive_Resort_No_1",
+            "type": "text",
+            "page": 0,
+            "x1": 494,
+            "y1": 772,
+            "x2": 625,
+            "y2": 801
+        },
+        {
+            "name": "Init_day_1",
+            "type": "text",
+            "page": 0,
+            "x1": 114,
+            "y1": 817,
+            "x2": 177,
+            "y2": 846
+        },
+        {
+            "name": "Init_month_1",
+            "type": "text",
+            "page": 0,
+            "x1": 197,
+            "y1": 817,
+            "x2": 259,
+            "y2": 846
+        },
+        {
+            "name": "Init_year_1",
+            "type": "text",
+            "page": 0,
+            "x1": 279,
+            "y1": 817,
+            "x2": 341,
+            "y2": 846
+        },
+        {
+            "name": "undefined_11",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 889,
+            "x2": 337,
+            "y2": 919
+        },
+        {
+            "name": "Init_Phone_1",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 889,
+            "x2": 625,
+            "y2": 919
+        },
+        {
+            "name": "undefined_13",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 930,
+            "x2": 337,
+            "y2": 959
+        },
+        {
+            "name": "undefined_14",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 930,
+            "x2": 625,
+            "y2": 959
+        },
+        {
+            "name": "Init_Email_1",
+            "type": "text",
+            "page": 0,
+            "x1": 125,
+            "y1": 970,
+            "x2": 625,
+            "y2": 1000
+        },
+        {
+            "name": "Init_padi_instructor_2",
+            "type": "text",
+            "page": 0,
+            "x1": 204,
+            "y1": 1035,
+            "x2": 625,
+            "y2": 1065
+        },
+        {
+            "name": "Init_Instructor_Signature_2",
+            "type": "signature",
+            "page": 0,
+            "x1": 165,
+            "y1": 1076,
+            "x2": 625,
+            "y2": 1105
+        },
+        {
+            "name": "Init_PADI_no_2",
+            "type": "text",
+            "page": 0,
+            "x1": 155,
+            "y1": 1116,
+            "x2": 275,
+            "y2": 1145
+        },
+        {
+            "name": "Init_Dive_Resort_No_2",
+            "type": "text",
+            "page": 0,
+            "x1": 494,
+            "y1": 1116,
+            "x2": 625,
+            "y2": 1145
+        },
+        {
+            "name": "Init_day_2",
+            "type": "text",
+            "page": 0,
+            "x1": 114,
+            "y1": 1162,
+            "x2": 177,
+            "y2": 1191
+        },
+        {
+            "name": "Init_month_2",
+            "type": "text",
+            "page": 0,
+            "x1": 197,
+            "y1": 1162,
+            "x2": 259,
+            "y2": 1191
+        },
+        {
+            "name": "Init_year_2",
+            "type": "text",
+            "page": 0,
+            "x1": 279,
+            "y1": 1162,
+            "x2": 341,
+            "y2": 1191
+        },
+        {
+            "name": "undefined_17",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 1229,
+            "x2": 337,
+            "y2": 1258
+        },
+        {
+            "name": "Init_Phone_2",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 1229,
+            "x2": 625,
+            "y2": 1258
+        },
+        {
+            "name": "undefined_19",
+            "type": "text",
+            "page": 0,
+            "x1": 277,
+            "y1": 1269,
+            "x2": 337,
+            "y2": 1298
+        },
+        {
+            "name": "undefined_20",
+            "type": "text",
+            "page": 0,
+            "x1": 345,
+            "y1": 1269,
+            "x2": 625,
+            "y2": 1298
+        },
+        {
+            "name": "Init_Email_2",
+            "type": "text",
+            "page": 0,
+            "x1": 125,
+            "y1": 1309,
+            "x2": 625,
+            "y2": 1338
+        },
+        {
+            "name": "CW2_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 244,
+            "x2": 803,
+            "y2": 273
+        },
+        {
+            "name": "CW2_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 244,
+            "x2": 893,
+            "y2": 273
+        },
+        {
+            "name": "CW2_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 244,
+            "x2": 985,
+            "y2": 273
+        },
+        {
+            "name": "CW3_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 277,
+            "x2": 803,
+            "y2": 306
+        },
+        {
+            "name": "CW3_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 277,
+            "x2": 893,
+            "y2": 306
+        },
+        {
+            "name": "CW3_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 277,
+            "x2": 985,
+            "y2": 306
+        },
+        {
+            "name": "CW4_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 310,
+            "x2": 803,
+            "y2": 339
+        },
+        {
+            "name": "CW4_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 310,
+            "x2": 893,
+            "y2": 339
+        },
+        {
+            "name": "CW4_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 310,
+            "x2": 985,
+            "y2": 339
+        },
+        {
+            "name": "CW1_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 210,
+            "x2": 1086,
+            "y2": 239
+        },
+        {
+            "name": "CW2_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 244,
+            "x2": 1086,
+            "y2": 273
+        },
+        {
+            "name": "CW3_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 277,
+            "x2": 1086,
+            "y2": 306
+        },
+        {
+            "name": "CW4_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 310,
+            "x2": 1086,
+            "y2": 339
+        },
+        {
+            "name": "CW1_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 210,
+            "x2": 803,
+            "y2": 239
+        },
+        {
+            "name": "CW1_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 210,
+            "x2": 893,
+            "y2": 239
+        },
+        {
+            "name": "CW1_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 210,
+            "x2": 985,
+            "y2": 239
+        },
+        {
+            "name": "CW1_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 210,
+            "x2": 1192,
+            "y2": 239
+        },
+        {
+            "name": "CW15_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 211,
+            "x2": 1407,
+            "y2": 239
+        },
+        {
+            "name": "CW15_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 211,
+            "x2": 1498,
+            "y2": 239
+        },
+        {
+            "name": "CW15_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 211,
+            "x2": 1588,
+            "y2": 239
+        },
+        {
+            "name": "undefined_32",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 211,
+            "x2": 1761,
+            "y2": 239
+        },
+        {
+            "name": "CW15_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 211,
+            "x2": 1983,
+            "y2": 239
+        },
+        {
+            "name": "CW15_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 211,
+            "x2": 2117,
+            "y2": 239
+        },
+        {
+            "name": "CW2_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 244,
+            "x2": 1192,
+            "y2": 273
+        },
+        {
+            "name": "CW16_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 240,
+            "x2": 1407,
+            "y2": 270
+        },
+        {
+            "name": "CW16_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 240,
+            "x2": 1498,
+            "y2": 270
+        },
+        {
+            "name": "CW16_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 240,
+            "x2": 1588,
+            "y2": 270
+        },
+        {
+            "name": "undefined_38",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 240,
+            "x2": 1761,
+            "y2": 270
+        },
+        {
+            "name": "CW16_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 240,
+            "x2": 1983,
+            "y2": 270
+        },
+        {
+            "name": "CW16_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 240,
+            "x2": 2117,
+            "y2": 270
+        },
+        {
+            "name": "CW3_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 277,
+            "x2": 1192,
+            "y2": 306
+        },
+        {
+            "name": "CW17_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 271,
+            "x2": 1407,
+            "y2": 300
+        },
+        {
+            "name": "CW17_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 271,
+            "x2": 1498,
+            "y2": 300
+        },
+        {
+            "name": "CW17_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 271,
+            "x2": 1588,
+            "y2": 300
+        },
+        {
+            "name": "undefined_44",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 271,
+            "x2": 1761,
+            "y2": 300
+        },
+        {
+            "name": "CW17_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 271,
+            "x2": 1983,
+            "y2": 300
+        },
+        {
+            "name": "CW17_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 271,
+            "x2": 2117,
+            "y2": 300
+        },
+        {
+            "name": "CW4_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 310,
+            "x2": 1192,
+            "y2": 339
+        },
+        {
+            "name": "CW18_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 302,
+            "x2": 1407,
+            "y2": 331
+        },
+        {
+            "name": "CW18_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 302,
+            "x2": 1498,
+            "y2": 331
+        },
+        {
+            "name": "CW18_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 302,
+            "x2": 1588,
+            "y2": 331
+        },
+        {
+            "name": "undefined_50",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 302,
+            "x2": 1761,
+            "y2": 331
+        },
+        {
+            "name": "CW18_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 302,
+            "x2": 1983,
+            "y2": 331
+        },
+        {
+            "name": "CW18_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 302,
+            "x2": 2117,
+            "y2": 331
+        },
+        {
+            "name": "CW5_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 343,
+            "x2": 803,
+            "y2": 373
+        },
+        {
+            "name": "CW5_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 343,
+            "x2": 893,
+            "y2": 373
+        },
+        {
+            "name": "CW5_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 343,
+            "x2": 985,
+            "y2": 373
+        },
+        {
+            "name": "CW5_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 343,
+            "x2": 1086,
+            "y2": 373
+        },
+        {
+            "name": "CW5_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 343,
+            "x2": 1192,
+            "y2": 373
+        },
+        {
+            "name": "CW19_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 332,
+            "x2": 1407,
+            "y2": 361
+        },
+        {
+            "name": "CW19_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 332,
+            "x2": 1498,
+            "y2": 361
+        },
+        {
+            "name": "CW19_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 332,
+            "x2": 1588,
+            "y2": 361
+        },
+        {
+            "name": "undefined_58",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 332,
+            "x2": 1761,
+            "y2": 361
+        },
+        {
+            "name": "CW19_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 332,
+            "x2": 1983,
+            "y2": 361
+        },
+        {
+            "name": "CW19_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 332,
+            "x2": 2117,
+            "y2": 361
+        },
+        {
+            "name": "CW20_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 375,
+            "x2": 1407,
+            "y2": 404
+        },
+        {
+            "name": "CW20_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 375,
+            "x2": 1498,
+            "y2": 404
+        },
+        {
+            "name": "CW20_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 375,
+            "x2": 1588,
+            "y2": 404
+        },
+        {
+            "name": "CW20_quizz",
+            "type": "text",
+            "page": 0,
+            "x1": 1681,
+            "y1": 375,
+            "x2": 1761,
+            "y2": 404
+        },
+        {
+            "name": "CW20_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 375,
+            "x2": 1983,
+            "y2": 404
+        },
+        {
+            "name": "CW20_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 375,
+            "x2": 2117,
+            "y2": 404
+        },
+        {
+            "name": "CW6_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 486,
+            "x2": 1086,
+            "y2": 516
+        },
+        {
+            "name": "CW6_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 486,
+            "x2": 803,
+            "y2": 516
+        },
+        {
+            "name": "CW6_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 486,
+            "x2": 893,
+            "y2": 516
+        },
+        {
+            "name": "CW6_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 486,
+            "x2": 985,
+            "y2": 516
+        },
+        {
+            "name": "CW6_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 486,
+            "x2": 1192,
+            "y2": 516
+        },
+        {
+            "name": "Instructor_signature_4",
+            "type": "signature",
+            "page": 0,
+            "x1": 1379,
+            "y1": 480,
+            "x2": 1690,
+            "y2": 509
+        },
+        {
+            "name": "PADI_no_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1717,
+            "y1": 480,
+            "x2": 1832,
+            "y2": 509
+        },
+        {
+            "name": "day_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1888,
+            "y1": 480,
+            "x2": 1970,
+            "y2": 509
+        },
+        {
+            "name": "month_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1990,
+            "y1": 480,
+            "x2": 2043,
+            "y2": 509
+        },
+        {
+            "name": "year_4",
+            "type": "text",
+            "page": 0,
+            "x1": 2063,
+            "y1": 480,
+            "x2": 2117,
+            "y2": 509
+        },
+        {
+            "name": "CW7_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 559,
+            "x2": 985,
+            "y2": 589
+        },
+        {
+            "name": "CW7_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 559,
+            "x2": 1086,
+            "y2": 589
+        },
+        {
+            "name": "CW7_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 559,
+            "x2": 1192,
+            "y2": 589
+        },
+        {
+            "name": "CW7_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 559,
+            "x2": 803,
+            "y2": 589
+        },
+        {
+            "name": "CW7_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 559,
+            "x2": 893,
+            "y2": 589
+        },
+        {
+            "name": "CW8_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 676,
+            "x2": 1086,
+            "y2": 705
+        },
+        {
+            "name": "CW8_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 676,
+            "x2": 1192,
+            "y2": 705
+        },
+        {
+            "name": "CW22_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1275,
+            "y1": 641,
+            "x2": 1328,
+            "y2": 671
+        },
+        {
+            "name": "CW22_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1348,
+            "y1": 641,
+            "x2": 1402,
+            "y2": 671
+        },
+        {
+            "name": "CW22_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1421,
+            "y1": 641,
+            "x2": 1475,
+            "y2": 671
+        },
+        {
+            "name": "CW21_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1494,
+            "y1": 612,
+            "x2": 1547,
+            "y2": 637
+        },
+        {
+            "name": "CW22_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1494,
+            "y1": 641,
+            "x2": 1547,
+            "y2": 671
+        },
+        {
+            "name": "CW22_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1583,
+            "y1": 641,
+            "x2": 1654,
+            "y2": 671
+        },
+        {
+            "name": "CW24_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1728,
+            "y1": 641,
+            "x2": 1781,
+            "y2": 671
+        },
+        {
+            "name": "CW24_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1801,
+            "y1": 641,
+            "x2": 1854,
+            "y2": 671
+        },
+        {
+            "name": "CW24_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1874,
+            "y1": 641,
+            "x2": 1928,
+            "y2": 671
+        },
+        {
+            "name": "CW23_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1956,
+            "y1": 612,
+            "x2": 2010,
+            "y2": 637
+        },
+        {
+            "name": "CW24_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1956,
+            "y1": 641,
+            "x2": 2010,
+            "y2": 671
+        },
+        {
+            "name": "CW21_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1275,
+            "y1": 612,
+            "x2": 1328,
+            "y2": 637
+        },
+        {
+            "name": "CW21_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1348,
+            "y1": 612,
+            "x2": 1401,
+            "y2": 637
+        },
+        {
+            "name": "CW21_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1421,
+            "y1": 612,
+            "x2": 1475,
+            "y2": 637
+        },
+        {
+            "name": "CW21_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1583,
+            "y1": 612,
+            "x2": 1654,
+            "y2": 637
+        },
+        {
+            "name": "CW23_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1728,
+            "y1": 612,
+            "x2": 1781,
+            "y2": 637
+        },
+        {
+            "name": "CW23_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1801,
+            "y1": 612,
+            "x2": 1854,
+            "y2": 637
+        },
+        {
+            "name": "CW23_year",
+            "type": "text",
+            "page": 0,
+            "x1": 1874,
+            "y1": 612,
+            "x2": 1928,
+            "y2": 637
+        },
+        {
+            "name": "CW23_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 612,
+            "x2": 2117,
+            "y2": 637
+        },
+        {
+            "name": "CW24_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 641,
+            "x2": 2117,
+            "y2": 671
+        },
+        {
+            "name": "CW8_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 676,
+            "x2": 803,
+            "y2": 705
+        },
+        {
+            "name": "CW8_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 676,
+            "x2": 893,
+            "y2": 705
+        },
+        {
+            "name": "CW8_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 676,
+            "x2": 985,
+            "y2": 705
+        },
+        {
+            "name": "CW9_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 756,
+            "x2": 1086,
+            "y2": 785
+        },
+        {
+            "name": "CW9_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 756,
+            "x2": 1192,
+            "y2": 785
+        },
+        {
+            "name": "CW9_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 756,
+            "x2": 803,
+            "y2": 785
+        },
+        {
+            "name": "CW9_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 756,
+            "x2": 893,
+            "y2": 785
+        },
+        {
+            "name": "CW9_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 756,
+            "x2": 985,
+            "y2": 785
+        },
+        {
+            "name": "Dive_2",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 773,
+            "x2": 1779,
+            "y2": 803
+        },
+        {
+            "name": "CW10_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 835,
+            "x2": 803,
+            "y2": 864
+        },
+        {
+            "name": "CW10_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 835,
+            "x2": 985,
+            "y2": 864
+        },
+        {
+            "name": "CW10_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 835,
+            "x2": 1086,
+            "y2": 864
+        },
+        {
+            "name": "CW10_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 835,
+            "x2": 1192,
+            "y2": 864
+        },
+        {
+            "name": "Dive_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 804,
+            "x2": 1779,
+            "y2": 833
+        },
+        {
+            "name": "CW10_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 835,
+            "x2": 893,
+            "y2": 864
+        },
+        {
+            "name": "Dive_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 835,
+            "x2": 1779,
+            "y2": 864
+        },
+        {
+            "name": "CW11_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 915,
+            "x2": 1192,
+            "y2": 944
+        },
+        {
+            "name": "Dive_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 865,
+            "x2": 1779,
+            "y2": 894
+        },
+        {
+            "name": "CW11_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 915,
+            "x2": 803,
+            "y2": 944
+        },
+        {
+            "name": "Dive_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 896,
+            "x2": 1779,
+            "y2": 925
+        },
+        {
+            "name": "CW11_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 915,
+            "x2": 893,
+            "y2": 944
+        },
+        {
+            "name": "CW11_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 915,
+            "x2": 985,
+            "y2": 944
+        },
+        {
+            "name": "CW11_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 915,
+            "x2": 1086,
+            "y2": 944
+        },
+        {
+            "name": "Dive_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 926,
+            "x2": 1779,
+            "y2": 956
+        },
+        {
+            "name": "CW12_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 994,
+            "x2": 1086,
+            "y2": 1024
+        },
+        {
+            "name": "CW12_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 994,
+            "x2": 1192,
+            "y2": 1024
+        },
+        {
+            "name": "Dive_8",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 957,
+            "x2": 1779,
+            "y2": 986
+        },
+        {
+            "name": "CW12_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 994,
+            "x2": 803,
+            "y2": 1024
+        },
+        {
+            "name": "CW12_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 994,
+            "x2": 893,
+            "y2": 1024
+        },
+        {
+            "name": "CW12_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 994,
+            "x2": 985,
+            "y2": 1024
+        },
+        {
+            "name": "Dive_9",
+            "type": "text",
+            "page": 0,
+            "x1": 1698,
+            "y1": 988,
+            "x2": 1778,
+            "y2": 1017
+        },
+        {
+            "name": "Dive_initials_1",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 744,
+            "x2": 1912,
+            "y2": 772
+        },
+        {
+            "name": "Dive_initials_2",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 773,
+            "x2": 1912,
+            "y2": 803
+        },
+        {
+            "name": "Dive_initials_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 804,
+            "x2": 1912,
+            "y2": 833
+        },
+        {
+            "name": "Dive_initials_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 835,
+            "x2": 1912,
+            "y2": 864
+        },
+        {
+            "name": "Dive_initials_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 865,
+            "x2": 1912,
+            "y2": 894
+        },
+        {
+            "name": "Dive_initials_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 896,
+            "x2": 1912,
+            "y2": 925
+        },
+        {
+            "name": "Dive_initials_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 926,
+            "x2": 1912,
+            "y2": 956
+        },
+        {
+            "name": "Dive_initials_8",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 957,
+            "x2": 1912,
+            "y2": 986
+        },
+        {
+            "name": "Dive_1",
+            "type": "text",
+            "page": 0,
+            "x1": 1699,
+            "y1": 744,
+            "x2": 1779,
+            "y2": 772
+        },
+        {
+            "name": "Dive_padi_1",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 744,
+            "x2": 2081,
+            "y2": 772
+        },
+        {
+            "name": "Dive_padi_2",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 773,
+            "x2": 2081,
+            "y2": 803
+        },
+        {
+            "name": "Dive_padi_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 804,
+            "x2": 2081,
+            "y2": 833
+        },
+        {
+            "name": "Dive_padi_4",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 835,
+            "x2": 2081,
+            "y2": 864
+        },
+        {
+            "name": "Dive_padi_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 865,
+            "x2": 2081,
+            "y2": 894
+        },
+        {
+            "name": "Dive_padi_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 896,
+            "x2": 2081,
+            "y2": 925
+        },
+        {
+            "name": "Dive_padi_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 926,
+            "x2": 2081,
+            "y2": 956
+        },
+        {
+            "name": "Dive_padi_8",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 957,
+            "x2": 2081,
+            "y2": 986
+        },
+        {
+            "name": "Dive_padi_9",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 988,
+            "x2": 2081,
+            "y2": 1017
+        },
+        {
+            "name": "CW13_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 1083,
+            "x2": 985,
+            "y2": 1113
+        },
+        {
+            "name": "CW13_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 1083,
+            "x2": 1086,
+            "y2": 1113
+        },
+        {
+            "name": "CW13_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 1083,
+            "x2": 1192,
+            "y2": 1113
+        },
+        {
+            "name": "Dive_10",
+            "type": "text",
+            "page": 0,
+            "x1": 1698,
+            "y1": 1018,
+            "x2": 1778,
+            "y2": 1047
+        },
+        {
+            "name": "Dive_padi_10",
+            "type": "text",
+            "page": 0,
+            "x1": 1992,
+            "y1": 1018,
+            "x2": 2081,
+            "y2": 1047
+        },
+        {
+            "name": "CW13_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 1083,
+            "x2": 803,
+            "y2": 1113
+        },
+        {
+            "name": "CW13_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 1083,
+            "x2": 893,
+            "y2": 1113
+        },
+        {
+            "name": "CW14_year",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 1172,
+            "x2": 985,
+            "y2": 1202
+        },
+        {
+            "name": "CW14_initials",
+            "type": "text",
+            "page": 0,
+            "x1": 1023,
+            "y1": 1172,
+            "x2": 1086,
+            "y2": 1202
+        },
+        {
+            "name": "CW14_padi",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 1172,
+            "x2": 1192,
+            "y2": 1202
+        },
+        {
+            "name": "Instructor_signature_5",
+            "type": "signature",
+            "page": 0,
+            "x1": 1379,
+            "y1": 1128,
+            "x2": 1690,
+            "y2": 1158
+        },
+        {
+            "name": "PADI_no_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1708,
+            "y1": 1128,
+            "x2": 1814,
+            "y2": 1158
+        },
+        {
+            "name": "day_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1863,
+            "y1": 1128,
+            "x2": 1935,
+            "y2": 1158
+        },
+        {
+            "name": "month_5",
+            "type": "text",
+            "page": 0,
+            "x1": 1954,
+            "y1": 1128,
+            "x2": 2026,
+            "y2": 1158
+        },
+        {
+            "name": "year_5",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 1128,
+            "x2": 2117,
+            "y2": 1158
+        },
+        {
+            "name": "CW14_day",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 1172,
+            "x2": 803,
+            "y2": 1202
+        },
+        {
+            "name": "CW14_month",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 1172,
+            "x2": 893,
+            "y2": 1202
+        },
+        {
+            "name": "student_signature",
+            "type": "signature",
+            "page": 0,
+            "x1": 1370,
+            "y1": 1316,
+            "x2": 1814,
+            "y2": 1345
+        },
+        {
+            "name": "Stu_day",
+            "type": "text",
+            "page": 0,
+            "x1": 1869,
+            "y1": 1316,
+            "x2": 1940,
+            "y2": 1345
+        },
+        {
+            "name": "Stu_month",
+            "type": "text",
+            "page": 0,
+            "x1": 1960,
+            "y1": 1316,
+            "x2": 2030,
+            "y2": 1345
+        },
+        {
+            "name": "Stu_year",
+            "type": "text",
+            "page": 0,
+            "x1": 2051,
+            "y1": 1316,
+            "x2": 2122,
+            "y2": 1345
+        },
+        {
+            "name": "Instructor_signature_3",
+            "type": "signature",
+            "page": 0,
+            "x1": 819,
+            "y1": 1353,
+            "x2": 1192,
+            "y2": 1383
+        },
+        {
+            "name": "PADI_no_3",
+            "type": "text",
+            "page": 0,
+            "x1": 721,
+            "y1": 1409,
+            "x2": 890,
+            "y2": 1438
+        },
+        {
+            "name": "day_3",
+            "type": "text",
+            "page": 0,
+            "x1": 940,
+            "y1": 1409,
+            "x2": 1011,
+            "y2": 1438
+        },
+        {
+            "name": "month_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1031,
+            "y1": 1409,
+            "x2": 1102,
+            "y2": 1438
+        },
+        {
+            "name": "year_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1122,
+            "y1": 1409,
+            "x2": 1193,
+            "y2": 1438
+        },
+        {
+            "name": "Instructor_signature_6",
+            "type": "signature",
+            "page": 0,
+            "x1": 1387,
+            "y1": 1459,
+            "x2": 1690,
+            "y2": 1488
+        },
+        {
+            "name": "PADI_no_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1708,
+            "y1": 1459,
+            "x2": 1814,
+            "y2": 1488
+        },
+        {
+            "name": "day_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1863,
+            "y1": 1459,
+            "x2": 1935,
+            "y2": 1488
+        },
+        {
+            "name": "month_6",
+            "type": "text",
+            "page": 0,
+            "x1": 1954,
+            "y1": 1459,
+            "x2": 2026,
+            "y2": 1488
+        },
+        {
+            "name": "year_6",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 1459,
+            "x2": 2117,
+            "y2": 1488
+        },
+        {
+            "name": "Instructor_signature_7",
+            "type": "signature",
+            "page": 0,
+            "x1": 1379,
+            "y1": 1555,
+            "x2": 1690,
+            "y2": 1584
+        },
+        {
+            "name": "PADI_no_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1708,
+            "y1": 1555,
+            "x2": 1814,
+            "y2": 1584
+        },
+        {
+            "name": "day_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1863,
+            "y1": 1555,
+            "x2": 1935,
+            "y2": 1584
+        },
+        {
+            "name": "month_7",
+            "type": "text",
+            "page": 0,
+            "x1": 1954,
+            "y1": 1555,
+            "x2": 2026,
+            "y2": 1584
+        },
+        {
+            "name": "year_7",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 1555,
+            "x2": 2117,
+            "y2": 1584
+        },
+        {
+            "name": "Dive_initials_9",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 988,
+            "x2": 1912,
+            "y2": 1017
+        },
+        {
+            "name": "Dive_initials_10",
+            "type": "text",
+            "page": 0,
+            "x1": 1850,
+            "y1": 1018,
+            "x2": 1912,
+            "y2": 1046
+        },
+        {
+            "name": "Check Box20",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 542,
+            "y1": 232,
+            "x2": 556,
+            "y2": 250
+        },
+        {
+            "name": "Check Box21",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 594,
+            "y1": 232,
+            "x2": 608,
+            "y2": 250
+        },
+        {
+            "name": "Check Box22",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1942,
+            "y1": 135,
+            "x2": 1957,
+            "y2": 151
+        },
+        {
+            "name": "Check Box23",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1850,
+            "y1": 135,
+            "x2": 1864,
+            "y2": 151
+        },
+        {
+            "name": "Check Box24",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1742,
+            "y1": 135,
+            "x2": 1756,
+            "y2": 151
+        },
+        {
+            "name": "Check Box25",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 221,
+            "x2": 1637,
+            "y2": 237
+        },
+        {
+            "name": "Check Box26",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 221,
+            "x2": 1840,
+            "y2": 237
+        },
+        {
+            "name": "Check Box27",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 251,
+            "x2": 1637,
+            "y2": 267
+        },
+        {
+            "name": "Check Box28",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 251,
+            "x2": 1840,
+            "y2": 267
+        },
+        {
+            "name": "Check Box29",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 282,
+            "x2": 1637,
+            "y2": 298
+        },
+        {
+            "name": "Check Box30",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 282,
+            "x2": 1840,
+            "y2": 298
+        },
+        {
+            "name": "Check Box31",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 312,
+            "x2": 1637,
+            "y2": 329
+        },
+        {
+            "name": "Check Box32",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 312,
+            "x2": 1840,
+            "y2": 329
+        },
+        {
+            "name": "Check Box33",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 343,
+            "x2": 1637,
+            "y2": 359
+        },
+        {
+            "name": "Check Box34",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 343,
+            "x2": 1840,
+            "y2": 359
+        },
+        {
+            "name": "Check Box35",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1623,
+            "y1": 385,
+            "x2": 1637,
+            "y2": 401
+        },
+        {
+            "name": "Check Box36",
+            "type": "checkbox",
+            "page": 0,
+            "x1": 1826,
+            "y1": 385,
+            "x2": 1840,
+            "y2": 401
+        },
+        {
+            "name": "CW 2",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 244,
+            "x2": 803,
+            "y2": 273
+        },
+        {
+            "name": "undefined_21",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 244,
+            "x2": 893,
+            "y2": 273
+        },
+        {
+            "name": "undefined_22",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 244,
+            "x2": 985,
+            "y2": 273
+        },
+        {
+            "name": "CW 3",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 277,
+            "x2": 803,
+            "y2": 306
+        },
+        {
+            "name": "undefined_23",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 277,
+            "x2": 893,
+            "y2": 306
+        },
+        {
+            "name": "undefined_24",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 277,
+            "x2": 985,
+            "y2": 306
+        },
+        {
+            "name": "CW 4",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 310,
+            "x2": 803,
+            "y2": 339
+        },
+        {
+            "name": "undefined_25",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 310,
+            "x2": 893,
+            "y2": 339
+        },
+        {
+            "name": "undefined_26",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 310,
+            "x2": 985,
+            "y2": 339
+        },
+        {
+            "name": "Initials 1",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 210,
+            "x2": 1085,
+            "y2": 240
+        },
+        {
+            "name": "Initials 2",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 244,
+            "x2": 1085,
+            "y2": 273
+        },
+        {
+            "name": "Initials 3",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 277,
+            "x2": 1085,
+            "y2": 306
+        },
+        {
+            "name": "Initials 4",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 310,
+            "x2": 1085,
+            "y2": 339
+        },
+        {
+            "name": "CW 1",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 210,
+            "x2": 803,
+            "y2": 240
+        },
+        {
+            "name": "undefined_27",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 210,
+            "x2": 893,
+            "y2": 240
+        },
+        {
+            "name": "undefined_28",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 210,
+            "x2": 985,
+            "y2": 240
+        },
+        {
+            "name": "undefined_29",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 210,
+            "x2": 1192,
+            "y2": 240
+        },
+        {
+            "name": "Section 1",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 211,
+            "x2": 1407,
+            "y2": 239
+        },
+        {
+            "name": "undefined_30",
+            "type": "text",
+            "page": 0,
+            "x1": 1426,
+            "y1": 211,
+            "x2": 1498,
+            "y2": 239
+        },
+        {
+            "name": "undefined_31",
+            "type": "text",
+            "page": 0,
+            "x1": 1517,
+            "y1": 211,
+            "x2": 1588,
+            "y2": 239
+        },
+        {
+            "name": "undefined_33",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 211,
+            "x2": 1983,
+            "y2": 239
+        },
+        {
+            "name": "undefined_34",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 211,
+            "x2": 2117,
+            "y2": 239
+        },
+        {
+            "name": "undefined_35",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 244,
+            "x2": 1192,
+            "y2": 273
+        },
+        {
+            "name": "Section 2",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 240,
+            "x2": 1407,
+            "y2": 270
+        },
+        {
+            "name": "undefined_41",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 277,
+            "x2": 1192,
+            "y2": 306
+        },
+        {
+            "name": "undefined_47",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 310,
+            "x2": 1192,
+            "y2": 339
+        },
+        {
+            "name": "CW 5",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 343,
+            "x2": 803,
+            "y2": 373
+        },
+        {
+            "name": "undefined_53",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 343,
+            "x2": 893,
+            "y2": 373
+        },
+        {
+            "name": "undefined_54",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 343,
+            "x2": 985,
+            "y2": 373
+        },
+        {
+            "name": "DSD with all CW Dive 1 skills  Open Water Diver CW Dive 1",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 343,
+            "x2": 1085,
+            "y2": 373
+        },
+        {
+            "name": "undefined_55",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 343,
+            "x2": 1192,
+            "y2": 373
+        },
+        {
+            "name": "200 metreyard Swim OR 300 metreyard MaskSnorkelFin Swim",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 487,
+            "x2": 1085,
+            "y2": 516
+        },
+        {
+            "name": "10 Minute Survival Float",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 487,
+            "x2": 803,
+            "y2": 516
+        },
+        {
+            "name": "undefined_66",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 487,
+            "x2": 893,
+            "y2": 516
+        },
+        {
+            "name": "undefined_67",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 487,
+            "x2": 985,
+            "y2": 516
+        },
+        {
+            "name": "undefined_68",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 487,
+            "x2": 1192,
+            "y2": 516
+        },
+        {
+            "name": "undefined_72",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 559,
+            "x2": 985,
+            "y2": 589
+        },
+        {
+            "name": "undefined_73",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 559,
+            "x2": 1085,
+            "y2": 589
+        },
+        {
+            "name": "undefined_74",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 559,
+            "x2": 1192,
+            "y2": 589
+        },
+        {
+            "name": "undefined_75",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 559,
+            "x2": 803,
+            "y2": 589
+        },
+        {
+            "name": "undefined_76",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 559,
+            "x2": 893,
+            "y2": 589
+        },
+        {
+            "name": "undefined_77",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 676,
+            "x2": 1085,
+            "y2": 705
+        },
+        {
+            "name": "undefined_78",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 676,
+            "x2": 1192,
+            "y2": 705
+        },
+        {
+            "name": "Equipment Preparation and Care",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 676,
+            "x2": 803,
+            "y2": 705
+        },
+        {
+            "name": "undefined_91",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 676,
+            "x2": 893,
+            "y2": 705
+        },
+        {
+            "name": "undefined_92",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 676,
+            "x2": 985,
+            "y2": 705
+        },
+        {
+            "name": "undefined_93",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 756,
+            "x2": 1085,
+            "y2": 785
+        },
+        {
+            "name": "undefined_94",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 756,
+            "x2": 1192,
+            "y2": 785
+        },
+        {
+            "name": "Disconnect Low Pressure Inflator Hose",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 756,
+            "x2": 803,
+            "y2": 785
+        },
+        {
+            "name": "undefined_95",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 756,
+            "x2": 893,
+            "y2": 785
+        },
+        {
+            "name": "undefined_96",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 756,
+            "x2": 985,
+            "y2": 785
+        },
+        {
+            "name": "Loose Cylinder Band",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 835,
+            "x2": 803,
+            "y2": 864
+        },
+        {
+            "name": "undefined_97",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 835,
+            "x2": 985,
+            "y2": 864
+        },
+        {
+            "name": "undefined_98",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 835,
+            "x2": 1085,
+            "y2": 864
+        },
+        {
+            "name": "undefined_99",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 835,
+            "x2": 1192,
+            "y2": 864
+        },
+        {
+            "name": "undefined_100",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 835,
+            "x2": 893,
+            "y2": 864
+        },
+        {
+            "name": "undefined_101",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 915,
+            "x2": 1192,
+            "y2": 944
+        },
+        {
+            "name": "Weight System Removal and Replacement surface",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 915,
+            "x2": 803,
+            "y2": 944
+        },
+        {
+            "name": "undefined_102",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 915,
+            "x2": 893,
+            "y2": 944
+        },
+        {
+            "name": "undefined_103",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 915,
+            "x2": 985,
+            "y2": 944
+        },
+        {
+            "name": "undefined_104",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 915,
+            "x2": 1085,
+            "y2": 944
+        },
+        {
+            "name": "undefined_105",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 994,
+            "x2": 1085,
+            "y2": 1024
+        },
+        {
+            "name": "undefined_106",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 994,
+            "x2": 1192,
+            "y2": 1024
+        },
+        {
+            "name": "Emergency Weight Drop or in OW",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 994,
+            "x2": 803,
+            "y2": 1024
+        },
+        {
+            "name": "undefined_107",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 994,
+            "x2": 893,
+            "y2": 1024
+        },
+        {
+            "name": "undefined_108",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 994,
+            "x2": 985,
+            "y2": 1024
+        },
+        {
+            "name": "undefined_118",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 1083,
+            "x2": 985,
+            "y2": 1112
+        },
+        {
+            "name": "undefined_119",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 1083,
+            "x2": 1085,
+            "y2": 1112
+        },
+        {
+            "name": "undefined_120",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 1083,
+            "x2": 1192,
+            "y2": 1112
+        },
+        {
+            "name": "Skin Diving Skills",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 1083,
+            "x2": 803,
+            "y2": 1112
+        },
+        {
+            "name": "undefined_122",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 1083,
+            "x2": 893,
+            "y2": 1112
+        },
+        {
+            "name": "undefined_123",
+            "type": "text",
+            "page": 0,
+            "x1": 914,
+            "y1": 1172,
+            "x2": 985,
+            "y2": 1202
+        },
+        {
+            "name": "undefined_124",
+            "type": "text",
+            "page": 0,
+            "x1": 1024,
+            "y1": 1172,
+            "x2": 1085,
+            "y2": 1202
+        },
+        {
+            "name": "undefined_125",
+            "type": "text",
+            "page": 0,
+            "x1": 1121,
+            "y1": 1172,
+            "x2": 1192,
+            "y2": 1202
+        },
+        {
+            "name": "Note If all Confined Water Dives Confined Water Dive Flexible Skills and Wa",
+            "type": "text",
+            "page": 0,
+            "x1": 731,
+            "y1": 1172,
+            "x2": 803,
+            "y2": 1202
+        },
+        {
+            "name": "undefined_129",
+            "type": "text",
+            "page": 0,
+            "x1": 822,
+            "y1": 1172,
+            "x2": 893,
+            "y2": 1202
+        },
+        {
+            "name": "undefined_36",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 240,
+            "x2": 1498,
+            "y2": 270
+        },
+        {
+            "name": "undefined_37",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 240,
+            "x2": 1588,
+            "y2": 270
+        },
+        {
+            "name": "undefined_39",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 240,
+            "x2": 1983,
+            "y2": 270
+        },
+        {
+            "name": "undefined_40",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 240,
+            "x2": 2117,
+            "y2": 270
+        },
+        {
+            "name": "Section 3",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 271,
+            "x2": 1407,
+            "y2": 300
+        },
+        {
+            "name": "undefined_42",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 271,
+            "x2": 1498,
+            "y2": 300
+        },
+        {
+            "name": "undefined_43",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 271,
+            "x2": 1588,
+            "y2": 300
+        },
+        {
+            "name": "undefined_45",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 271,
+            "x2": 1983,
+            "y2": 300
+        },
+        {
+            "name": "undefined_46",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 271,
+            "x2": 2117,
+            "y2": 300
+        },
+        {
+            "name": "Section 4",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 302,
+            "x2": 1407,
+            "y2": 331
+        },
+        {
+            "name": "undefined_48",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 302,
+            "x2": 1498,
+            "y2": 331
+        },
+        {
+            "name": "undefined_49",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 302,
+            "x2": 1588,
+            "y2": 331
+        },
+        {
+            "name": "undefined_51",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 302,
+            "x2": 1983,
+            "y2": 331
+        },
+        {
+            "name": "undefined_52",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 302,
+            "x2": 2117,
+            "y2": 331
+        },
+        {
+            "name": "Section 5",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 332,
+            "x2": 1407,
+            "y2": 361
+        },
+        {
+            "name": "undefined_56",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 332,
+            "x2": 1498,
+            "y2": 361
+        },
+        {
+            "name": "undefined_57",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 332,
+            "x2": 1588,
+            "y2": 361
+        },
+        {
+            "name": "undefined_59",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 332,
+            "x2": 1983,
+            "y2": 361
+        },
+        {
+            "name": "undefined_60",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 332,
+            "x2": 2117,
+            "y2": 361
+        },
+        {
+            "name": "Quick Review",
+            "type": "text",
+            "page": 0,
+            "x1": 1336,
+            "y1": 375,
+            "x2": 1407,
+            "y2": 404
+        },
+        {
+            "name": "undefined_61",
+            "type": "text",
+            "page": 0,
+            "x1": 1427,
+            "y1": 375,
+            "x2": 1498,
+            "y2": 404
+        },
+        {
+            "name": "undefined_62",
+            "type": "text",
+            "page": 0,
+            "x1": 1518,
+            "y1": 375,
+            "x2": 1588,
+            "y2": 404
+        },
+        {
+            "name": "undefined_64",
+            "type": "text",
+            "page": 0,
+            "x1": 1903,
+            "y1": 375,
+            "x2": 1983,
+            "y2": 404
+        },
+        {
+            "name": "undefined_65",
+            "type": "text",
+            "page": 0,
+            "x1": 2028,
+            "y1": 375,
+            "x2": 2117,
+            "y2": 404
+        },
+        {
+            "name": "Dive 2",
+            "type": "text",
+            "page": 0,
+            "x1": 1275,
+            "y1": 641,
+            "x2": 1328,
+            "y2": 671
+        },
+        {
+            "name": "undefined_79",
+            "type": "text",
+            "page": 0,
+            "x1": 1348,
+            "y1": 641,
+            "x2": 1402,
+            "y2": 671
+        },
+        {
+            "name": "undefined_80",
+            "type": "text",
+            "page": 0,
+            "x1": 1421,
+            "y1": 641,
+            "x2": 1475,
+            "y2": 671
+        },
+        {
+            "name": "Initials 1_2",
+            "type": "text",
+            "page": 0,
+            "x1": 1494,
+            "y1": 612,
+            "x2": 1547,
+            "y2": 637
+        },
+        {
+            "name": "Initials 2_2",
+            "type": "text",
+            "page": 0,
+            "x1": 1494,
+            "y1": 641,
+            "x2": 1547,
+            "y2": 671
+        },
+        {
+            "name": "undefined_81",
+            "type": "text",
+            "page": 0,
+            "x1": 1583,
+            "y1": 641,
+            "x2": 1654,
+            "y2": 671
+        },
+        {
+            "name": "Dive 4",
+            "type": "text",
+            "page": 0,
+            "x1": 1728,
+            "y1": 641,
+            "x2": 1781,
+            "y2": 671
+        },
+        {
+            "name": "undefined_82",
+            "type": "text",
+            "page": 0,
+            "x1": 1801,
+            "y1": 641,
+            "x2": 1854,
+            "y2": 671
+        },
+        {
+            "name": "undefined_83",
+            "type": "text",
+            "page": 0,
+            "x1": 1874,
+            "y1": 641,
+            "x2": 1928,
+            "y2": 671
+        },
+        {
+            "name": "Initials 1_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1956,
+            "y1": 612,
+            "x2": 2010,
+            "y2": 637
+        },
+        {
+            "name": "Initials 2_3",
+            "type": "text",
+            "page": 0,
+            "x1": 1956,
+            "y1": 641,
+            "x2": 2010,
+            "y2": 671
+        },
+        {
+            "name": "Dive 1",
+            "type": "text",
+            "page": 0,
+            "x1": 1275,
+            "y1": 612,
+            "x2": 1328,
+            "y2": 637
+        },
+        {
+            "name": "undefined_84",
+            "type": "text",
+            "page": 0,
+            "x1": 1348,
+            "y1": 612,
+            "x2": 1401,
+            "y2": 637
+        },
+        {
+            "name": "undefined_85",
+            "type": "text",
+            "page": 0,
+            "x1": 1421,
+            "y1": 612,
+            "x2": 1475,
+            "y2": 637
+        },
+        {
+            "name": "undefined_86",
+            "type": "text",
+            "page": 0,
+            "x1": 1583,
+            "y1": 612,
+            "x2": 1654,
+            "y2": 637
+        },
+        {
+            "name": "Dive 3",
+            "type": "text",
+            "page": 0,
+            "x1": 1728,
+            "y1": 612,
+            "x2": 1781,
+            "y2": 637
+        },
+        {
+            "name": "undefined_87",
+            "type": "text",
+            "page": 0,
+            "x1": 1801,
+            "y1": 612,
+            "x2": 1854,
+            "y2": 637
+        },
+        {
+            "name": "undefined_88",
+            "type": "text",
+            "page": 0,
+            "x1": 1874,
+            "y1": 612,
+            "x2": 1928,
+            "y2": 637
+        },
+        {
+            "name": "undefined_89",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 612,
+            "x2": 2117,
+            "y2": 637
+        },
+        {
+            "name": "undefined_90",
+            "type": "text",
+            "page": 0,
+            "x1": 2045,
+            "y1": 641,
+            "x2": 2117,
+            "y2": 671
+        },
+        {
+            "name": "undefined_126",
+            "type": "text",
+            "page": 0,
+            "x1": 1708,
+            "y1": 1128,
+            "x2": 1814,
+            "y2": 1158
+        }
+    ]
+}
