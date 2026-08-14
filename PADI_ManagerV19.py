@@ -1,3 +1,7 @@
+# created by H. Steiner, steinerh@telus.net
+# all copyright reserved
+# 14-08-2026
+
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox, simpledialog
 import json
@@ -13,6 +17,7 @@ from reportlab.lib.utils import ImageReader
 import re
 import hashlib
 from datetime import date
+from PIL import Image, ImageDraw, ImageTk, ImageOps
 
 # Import tkcalendar for the date picker widget
 from tkcalendar import DateEntry
@@ -147,11 +152,13 @@ def display_comment(pdf_file):
         return
 
     comment_text.delete("1.0", "end")
+    update_comment_box_color()
 
     if pdf_file:
         saved = get_saved_comment(pdf_file)
         if saved:
             comment_text.insert("1.0", saved)
+            update_comment_box_color()
 
     comment_text.see("1.0")
 
@@ -4689,6 +4696,7 @@ def close_pdf():
 
     if "comment_text" in globals():
         comment_text.delete("1.0", "end")
+        update_comment_box_color()
 
     status_label.config(
         text="PDF and Mask Closed"
@@ -6745,7 +6753,7 @@ def update_button_colors():
 # ---------------- GUI SETUP ----------------
 
 root = tk.Tk()
-root.title("PADI Manager (Interactive PDF)")
+root.title("PADI Manager V19")
 root.geometry("1200x800")
 
 hover_info_label = tk.Label(
@@ -6759,6 +6767,17 @@ hover_info_label = tk.Label(
 
 top_frame = ttk.Frame(root)
 top_frame.pack(fill="x", pady=5)
+try:
+    logo_img = Image.open(BASE_DIR / "logo.png")
+    logo_img = logo_img.resize((64, 64))
+    logo_photo = ImageTk.PhotoImage(logo_img)
+
+    logo_label = tk.Label(top_frame, image=logo_photo)
+    logo_label.image = logo_photo   # keep reference
+    logo_label.pack(side="left", padx=5)
+
+except Exception as e:
+    print("Logo load failed:", e)
 
 tk.Label(top_frame, text="Instructor:").pack(side="left", padx=5)
 instructor_var = tk.StringVar()
@@ -6863,6 +6882,18 @@ comment_scrollbar.pack(
     fill="y"
 )
 
+def update_comment_box_color(event=None):
+    content = comment_text.get("1.0", "end-1c").strip()
+
+    if content:
+        comment_text.configure(bg="orange")
+    else:
+        comment_text.configure(bg="white")
+
+comment_text.bind("<KeyRelease>", update_comment_box_color)
+
+# Set initial color
+update_comment_box_color()
 #tk.Button(mid_frame, text="Save Mask File", command=save_mask_file).pack(side="left", padx=5)
 #tk.Button(mid_frame, text="Load Mask File", command=load_mask_file).pack(side="left", padx=5)
 #tk.Button(mid_frame, text="Close PDF", command=close_pdf).pack(side="left", padx=5)
@@ -6953,7 +6984,7 @@ btn_close_pdf = tk.Button(
 
 btn_regenerate_master = tk.Button(
     tools_frame,
-    text="Regenerate Master Mask",
+    text="Repair 10056 Mask",
     command=regenerate_master_mask,
     width=weite
 )

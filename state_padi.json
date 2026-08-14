@@ -1,0 +1,47 @@
+{
+    "Instructor_signature_4": {
+        "value": "C:\\Python\\PADI_MANAGER\\PADI_MANAGER_MAC\\signatures\\000000.png",
+        "page": 0,
+        "x1": 1379,
+        "y1": 480,
+        "x2": 1690,
+        "y2": 509,
+        "type": "signature"
+    },
+    "PADI_no_4": {
+        "value": "000000",
+        "page": 0,
+        "x1": 1717,
+        "y1": 480,
+        "x2": 1832,
+        "y2": 509,
+        "type": "text"
+    },
+    "day_4": {
+        "value": "14",
+        "page": 0,
+        "x1": 1888,
+        "y1": 480,
+        "x2": 1970,
+        "y2": 509,
+        "type": "text"
+    },
+    "month_4": {
+        "value": "Aug",
+        "page": 0,
+        "x1": 1990,
+        "y1": 480,
+        "x2": 2043,
+        "y2": 509,
+        "type": "text"
+    },
+    "year_4": {
+        "value": "2026",
+        "page": 0,
+        "x1": 2063,
+        "y1": 480,
+        "x2": 2117,
+        "y2": 509,
+        "type": "text"
+    }
+}
